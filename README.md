@@ -1,10 +1,7 @@
 # ETERNAL TODO
 
-Today is Nov. 8, 2023 and about 8:21am
+Today is Feb. 15, 2023 and about 9:16am
 
-- [x] Tweak DCGAN for slightly larger images
-- [ ] Visit the lab
-- [ ] onnx runtime
-- [ ] Webpage presentation
-- [ ] Use tensorboard on torch
-- [ ] Start pro GAN
+- [x] Muay Thai
+- [ ] Print forms for driver's license
+- [ ] Uncensored Mistral
